@@ -1,4 +1,4 @@
-# PunchTheClock - November
+# PunchTheClock - February
 
 - [ ] 1. ​
 - [ ] 2. ​
@@ -29,8 +29,6 @@
 - [ ] 27. ​
 - [ ] 28. ​
 - [ ] 29. ​
-- [ ] 30. ​
-- [ ] 31. ​
 
 
 
